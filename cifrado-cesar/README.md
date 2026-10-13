@@ -1,10 +1,10 @@
-# 🔐 Cifrado y Descifrado César en Python
+# Cifrado y Descifrado César en Python
 
 Implementación práctica del histórico algoritmo criptográfico por sustitución monoalfabética (Cifrado César) desarrollado en Python.
 
 ---
 
-## 📖 ¿Cómo funciona?
+## ¿Cómo funciona?
 
 El cifrado César consiste en sustituir cada letra del texto en claro por otra que se encuentra un número fijo de posiciones (`desplazamiento`) más adelante en el abecedario.
 
@@ -21,7 +21,7 @@ $$P = (C - k) \pmod{26} \equiv (C + (26 - k)) \pmod{26}$$
 
 ---
 
-## 🚀 Características del Script
+## Características del Script
 
 - **Soporte de caracteres mixtos**: Respeta mayúsculas y minúsculas sin alterar signos de puntuación, números ni espacios en blanco.
 - **Validación de parámetros**: Asegura que el valor de desplazamiento se encuentre estrictamente en el rango válido $[1, 25]$.
@@ -29,7 +29,7 @@ $$P = (C - k) \pmod{26} \equiv (C + (26 - k)) \pmod{26}$$
 
 ---
 
-## 💻 Ejecución
+## Ejecución
 
 ```bash
 cd cifrado-cesar
@@ -45,15 +45,15 @@ Introduce el mensaje que deseas procesar: Seguridad en Redes ASIR
 Introduce el desplazamiento deseado (1-25): 3
 
 --------------------------------------------------
-🔒 Mensaje Original:   Seguridad en Redes ASIR
-🔑 Clave (Desplazo):   3
-🛡️  Mensaje Cifrado:    Vhjxulgdg HQ Uhghv DVLUB  (o según rotación)
-🔓 Mensaje Descifrado:  Seguridad en Redes ASIR
+Mensaje Original:   Seguridad en Redes ASIR
+Clave (Desplazo):   3
+Mensaje Cifrado:    Vhjxulgdg HQ Uhghv DVLUB
+Mensaje Descifrado: Seguridad en Redes ASIR
 --------------------------------------------------
 ```
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 - **Adrián Ortega Martínez** - [@Rakroft](https://github.com/Rakroft)

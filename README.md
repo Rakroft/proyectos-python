@@ -1,11 +1,11 @@
-# 🐍 Proyectos y Prácticas en Python
+# Proyectos y Prácticas en Python
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.8+"/>
   <img src="https://img.shields.io/badge/Arquitectura-Modular-6c63ff?style=for-the-badge" alt="Arquitectura Modular"/>
   <img src="https://img.shields.io/badge/Licencia-MIT-22c55e?style=for-the-badge" alt="MIT License"/>
   <a href="https://rakroft.github.io/Rakroft/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Rakroft-00f5ff?style=for-the-badge" alt="Portfolio Web"/>
+    <img src="https://img.shields.io/badge/Portfolio-Rakroft-00f5ff?style=for-the-badge" alt="Portfolio Web"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@ Repositorio centralizado con proyectos, algoritmos y prácticas de desarrollo en
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 proyectos-python/
@@ -38,7 +38,7 @@ proyectos-python/
 
 ---
 
-## 🛠️ Resumen de Proyectos
+## Resumen de Proyectos
 
 | Proyecto | Descripción | Conceptos Clave | Enlace |
 | :--- | :--- | :--- | :--- |
@@ -49,7 +49,7 @@ proyectos-python/
 
 ---
 
-## ⚡ Instalación y Ejecución
+## Instalación y Ejecución
 
 Todos los scripts utilizan exclusivamente la **biblioteca estándar de Python**, por lo que no es necesario instalar dependencias de terceros ni crear entornos virtuales complejos.
 
@@ -83,7 +83,7 @@ cd proyectos-python
 
 ---
 
-## 🧪 Pruebas y Validación
+## Pruebas y Validación
 
 Todos los scripts han sido testeados con Python 3.8+ bajo entornos Linux, verificando:
 - Manejo correcto de entradas anómalas (letras en campos numéricos, saltos de línea vacíos).
@@ -92,19 +92,19 @@ Todos los scripts han sido testeados con Python 3.8+ bajo entornos Linux, verifi
 
 ---
 
-## 👨‍💻 Sobre el Autor
+## Sobre el Autor
 
 **Adrián Ortega Martínez**  
 Estudiante de 2º curso de **ASIR** (Administración de Sistemas Informáticos en Red) en Barcelona.  
 Interesado en administración de sistemas Linux/Windows, redes, automatización con scripts y ciberseguridad.
 
-- 🌐 **Portfolio Web:** [rakroft.github.io/Rakroft](https://rakroft.github.io/Rakroft/)
-- 💼 **LinkedIn:** [adrian-ortega-martinez](https://linkedin.com/in/adrian-ortega-martinez)
-- 🐙 **GitHub:** [@Rakroft](https://github.com/Rakroft)
-- ✉️ **Contacto:** [adrianoft07@gmail.com](mailto:adrianoft07@gmail.com)
+- **Portfolio Web:** [rakroft.github.io/Rakroft](https://rakroft.github.io/Rakroft/)
+- **LinkedIn:** [adrian-ortega-martinez](https://linkedin.com/in/adrian-ortega-martinez)
+- **GitHub:** [@Rakroft](https://github.com/Rakroft)
+- **Contacto:** [adrianoft07@gmail.com](mailto:adrianoft07@gmail.com)
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más información.

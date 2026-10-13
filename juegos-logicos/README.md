@@ -1,17 +1,17 @@
-# 🎮 Juegos de Lógica y Algoritmos en Consola
+# Juegos de Lógica y Algoritmos en Consola
 
 Colección de scripts interactivos desarrollados en Python enfocados en la resolución de problemas lógicos, estructuras de control de flujo, bucles y gestión de estados en terminal.
 
 ---
 
-## 🕹️ Proyectos Incluidos
+## Proyectos Incluidos
 
-### 1. 🎯 Juego de la Adivinanza Numérica (`adivinanza/`)
+### 1. Juego de la Adivinanza Numérica (`adivinanza/`)
 - **Descripción**: Genera un número pseudoaleatorio entre 1 y 1000 con la librería `random`.
 - **Mecánica**: El jugador define cuántos intentos necesita (entre 1 y 6). Tras cada intento, el sistema proporciona retroalimentación dinámica indicando si el número objetivo es más alto o más bajo.
 - **Conceptos**: Búsqueda binaria intuitiva, condicionales `if/elif/else`, bucles `for/while`, manejo de excepciones con `ValueError`.
 
-### 2. ⚡ Pokémon Rojo Fuego: Aventura en Consola (`pokemon-aventura/`)
+### 2. Pokémon Rojo Fuego: Aventura en Consola (`pokemon-aventura/`)
 - **Descripción**: Simulador interactivo por consola que recrea la elección de inicial y la batalla decisiva de la Liga Pokémon contra el Campeón Azul.
 - **Mecánica**: 
   - Selección de inicial (Bulbasaur, Charmander, Squirtle o Pikachu).
@@ -22,7 +22,7 @@ Colección de scripts interactivos desarrollados en Python enfocados en la resol
 
 ---
 
-## 💻 Cómo Ejecutarlos
+## Cómo Ejecutarlos
 
 ### Adivinanza Numérica:
 ```bash
@@ -38,6 +38,6 @@ python3 pokemon_aventura.py
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 - **Adrián Ortega Martínez** - [@Rakroft](https://github.com/Rakroft)

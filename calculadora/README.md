@@ -1,10 +1,10 @@
-# 🧮 Calculadora Modular en Python
+# Calculadora Modular en Python
 
 Aplicación interactiva por consola desarrollada en Python que permite realizar operaciones matemáticas básicas y avanzadas con validación estricta de datos y control de excepciones en tiempo de ejecución.
 
 ---
 
-## 🚀 Características
+## Características
 
 - **7 Operaciones Matemáticas**:
   1. Suma (`+`)
@@ -20,13 +20,13 @@ Aplicación interactiva por consola desarrollada en Python que permite realizar 
 
 ---
 
-## 📋 Requisitos
+## Requisitos
 
 - Python 3.8 o superior (no requiere librerías externas).
 
 ---
 
-## 💻 Uso e Instalación
+## Uso e Instalación
 
 Para ejecutar la calculadora desde tu terminal:
 
@@ -54,16 +54,16 @@ Has escogido la opción 6. ¡Perfecto!
 Introduce el primer número: 2
 Introduce el segundo número: 8
 ---------------------------------------------
-✅ El resultado de tu operación es: 256
+El resultado de tu operación es: 256
 ---------------------------------------------
 
 ¿Deseas realizar otra operación? (s/N): n
 
-¡Hasta la próxima! Espero haberte ayudado. 👋
+¡Hasta la próxima! Espero haberte ayudado.
 ```
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 - **Adrián Ortega Martínez** - [@Rakroft](https://github.com/Rakroft)
